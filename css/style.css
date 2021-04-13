@@ -19,6 +19,7 @@ body {
 }
 header nav {
     width: 60%;
+    position: relative;
 }
 header nav ul {
     position: absolute;
