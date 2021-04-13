@@ -87,7 +87,7 @@ body main article p {
     overflow: scroll;  /*https://stackoverflow.com/questions/24917983/make-text-scrollable-within-div*/
     float: right;
     position: absolute;
-    right: 25%;
+    right: 22%;
 }
 body main article button {
     background-color: #000;
@@ -95,8 +95,8 @@ body main article button {
     height: 50px;
     width: 155px;
     position: absolute;
-    left: 61.5%;
-    margin-top: 28.3%;
+    left: 51.4%;
+    margin-top: 20.7%;
 }
 
 footer {
