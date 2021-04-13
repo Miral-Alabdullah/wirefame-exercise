@@ -17,4 +17,19 @@
 >>> * Section2 : contains three images or cards that hold the image.
 >>> * Section3 : contains a one image, one button and one text.
 
->> * Footer 
+>> * Footer
+
+
+**2- CSS** file : This file contains styling for the structure by the selectors themselves, no classes or ids have been added or used over 
+here.
+
+<br>
+
+>> The final result should be somthing close as following: 
+
+![wireframe-exercise!](img/wireframe-comp.png)
+
+
+
+
+
