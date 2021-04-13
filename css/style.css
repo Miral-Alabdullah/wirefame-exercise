@@ -49,13 +49,13 @@ body main section h1 img {
     margin-left: 20.3%;
 }
 
-/* body main div img {
+body main div img {
     width: 300px;
     height: 375px;
     margin-left: 2%;
 }
 body main div {
-    margin-left: 19.5%;
+    margin-left: 19.2%;
 }
 body main section article {
     height: 375px;
@@ -66,7 +66,7 @@ body main article div {
     height: 375px;
     width: 300px;
 }
-body main article {
+/* body main article {
     position: relative;
 }
 body main article img {
