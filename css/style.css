@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #444444;
+    position: relative;
+    padding: 70px;
+}
+header img {
+    position: absolute;
+    left: 20%;
+    top: 33%;
+    width: 200px;
+    height: 70px;
+}
+body {
+    background-color: #ffffff;
+}
+header nav {
+    width: 60%;
+}
+header nav ul {
+    position: absolute;
+    right: 15%;
+    top: 30px;
+}
+header nav ul li {
+    display: inline-block;
+    width: 200px;
+    height: 70px;
+    position: relative;
+}
+header nav ul li a {
+    text-decoration: none;
+    position: absolute;
+    top: 35%;
+    left: 33%;
+    color: #DDD;
+    font-size: 20px;
+}
+
