@@ -51,3 +51,16 @@ body main section h1 img {
     height: 450px;
     margin-left: 20.3%;
 }
+
+body main section div img {
+    width: 300px;
+    height: 375px;
+    margin-left: 2%;
+}
+body main section div {
+    margin-left: 19%;
+}
+body main section article div {
+    display: inline-block;
+}
+
