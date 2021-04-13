@@ -57,7 +57,32 @@ body main div img {
 body main div {
     margin-left: 19.25%;
 }
-body main section article {
+main article {
+    position: relative;
+}
+main article h2 {
+    width: 480px;
+    height: 400px;
+}
+main article p {
+    width: 480px;
+    height: 350px;
+    position: absolute;
+    right: 10.8%;
+    bottom: 5%;
+    overflow: scroll;  
+    font-size: 30px;
+    margin-top: 0%;
+    margin-bottom: 4.7%;
+
+}
+main article h2 img {
+    width: 480px;
+    height: 400px;
+    position: absolute;
+    left: 20.8%;
+}
+/* body main section article {
     height: 375px;
     width: 300px;
 }
@@ -94,7 +119,7 @@ body main article button {
     position: absolute;
     left: 51.4%;
     margin-top: 20.7%;
-}
+} */
 footer {
     clear: both;
     background-color: #3d3d3d;
