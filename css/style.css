@@ -66,9 +66,9 @@ main article h2 {
 }
 main article p {
     width: 480px;
-    height: 350px;
+    height: 290px;
     position: absolute;
-    right: 18%;
+    right: 16.7%;
     bottom: 5%;
     overflow: scroll;  
     font-size: 30px;
@@ -81,6 +81,15 @@ main article h2 img {
     height: 400px;
     position: absolute;
     left: 20.8%;
+}
+body main article button {
+    background-color: #000;
+    color: honeydew;
+    height: 50px;
+    width: 155px;
+    position: absolute;
+    left: 50%;
+    bottom: 1%;
 }
 /* body main section article {
     height: 375px;
