@@ -3,24 +3,25 @@
 }
 body {
     background-color: #ffffff;
+    margin: 0%;
 }
 header {
     background-color: #444444;
     position: relative;
-    padding: 90px;
+    padding: 80px;
 }
 header img {
     position: absolute;
     left: 20%;
-    top: 58%;
+    top: 50%;
     width: 200px;
     height: 70px;
 }
-
 header nav ul {
     position: absolute;
     left: 32%;
-    height: 20%;
+    height: 35%;
+    margin-top: 0%;
 }
 header nav ul li {
     display: inline-block;
@@ -31,8 +32,8 @@ header nav ul li {
 header nav ul li a {
     text-decoration: none;
     position: absolute;
-    top: 35%;
-    left: 33%;
+    top: 30%;
+    left: 30%;
     color: #DDD;
     font-size: 20px;
 }
