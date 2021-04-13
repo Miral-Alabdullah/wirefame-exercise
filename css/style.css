@@ -5,12 +5,12 @@
 header {
     background-color: #444444;
     position: relative;
-    padding: 70px;
+    padding: 90px;
 }
 header img {
     position: absolute;
     left: 20%;
-    top: 33%;
+    top: 58%;
     width: 200px;
     height: 70px;
 }
@@ -18,13 +18,13 @@ body {
     background-color: #ffffff;
 }
 header nav {
-    width: 60%;
+    width: 100%;
     position: relative;
 }
 header nav ul {
     position: absolute;
-    right: 20%;
-    top: 30px;
+    left: 30%;
+    height: 20%;
 }
 header nav ul li {
     display: inline-block;
@@ -59,7 +59,7 @@ body main div img {
     margin-left: 2%;
 }
 body main div {
-    margin-left: 19%;
+    margin-left: 19.5%;
 }
 body main section article {
     height: 375px;
@@ -79,7 +79,7 @@ body main article img {
     width: 480px;
     height: 400px;
     position: absolute;
-    left: 20.65%;
+    left: 21.1%;
 }
 body main article p {
     font-size: 20px;
@@ -87,8 +87,9 @@ body main article p {
     width: 450px;
     overflow: scroll;  /*https://stackoverflow.com/questions/24917983/make-text-scrollable-within-div*/
     float: right;
-    position: absolute;
-    right: 22%;
+    margin-right: 21.5%;
+    /* position: absolute; */
+    /* right: 22%; */
 }
 body main article button {
     background-color: #000;
